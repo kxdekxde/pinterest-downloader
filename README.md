@@ -1,7 +1,7 @@
 # Pixiv Downloader
 A simple tool to download images or videos from [Pinterest](https://www.pinterest.com).
 
-<img src="https://files.catbox.moe/4rgokq.png" width="700"/>
+<img src="https://files.catbox.moe/4rgokq.png" width="500"/>
 
 ## Requirements to use the script:
 
